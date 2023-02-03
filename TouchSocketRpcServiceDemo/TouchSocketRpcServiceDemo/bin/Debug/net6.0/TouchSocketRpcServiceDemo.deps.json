@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TouchSocketRpcServiceDemo/1.0.0": {
+        "dependencies": {
+          "TouchSocket": "1.2.1"
+        },
+        "runtime": {
+          "TouchSocketRpcServiceDemo.dll": {}
+        }
+      },
+      "TouchSocket/1.2.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/TouchSocket.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TouchSocketRpcServiceDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TouchSocket/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hlmv9Gp1MYacRfpY9fxZUcXsskg+lVZ4UV4YvErcdUc9EohZ2FlzDT/xECrSd4CghhbIkPMvNOrlF8Sx869r9A==",
+      "path": "touchsocket/1.2.1",
+      "hashPath": "touchsocket.1.2.1.nupkg.sha512"
+    }
+  }
+}

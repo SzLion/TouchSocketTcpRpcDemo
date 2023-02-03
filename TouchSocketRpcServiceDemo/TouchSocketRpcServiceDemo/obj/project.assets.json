@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TouchSocket/1.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/TouchSocket.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/TouchSocket.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TouchSocket/1.2.1": {
+      "sha512": "hlmv9Gp1MYacRfpY9fxZUcXsskg+lVZ4UV4YvErcdUc9EohZ2FlzDT/xECrSd4CghhbIkPMvNOrlF8Sx869r9A==",
+      "type": "package",
+      "path": "touchsocket/1.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net45/TouchSocket.dll",
+        "lib/net45/TouchSocket.xml",
+        "lib/net7.0/TouchSocket.dll",
+        "lib/net7.0/TouchSocket.xml",
+        "lib/netcoreapp3.1/TouchSocket.dll",
+        "lib/netcoreapp3.1/TouchSocket.xml",
+        "lib/netstandard2.0/TouchSocket.dll",
+        "lib/netstandard2.0/TouchSocket.xml",
+        "logo.png",
+        "touchsocket.1.2.1.nupkg.sha512",
+        "touchsocket.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TouchSocket >= 1.2.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SZY\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\SZY\\RiderProjects\\TouchSocketRpcServiceDemo\\TouchSocketRpcServiceDemo\\TouchSocketRpcServiceDemo.csproj",
+      "projectName": "TouchSocketRpcServiceDemo",
+      "projectPath": "C:\\Users\\SZY\\RiderProjects\\TouchSocketRpcServiceDemo\\TouchSocketRpcServiceDemo\\TouchSocketRpcServiceDemo.csproj",
+      "packagesPath": "C:\\Users\\SZY\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SZY\\RiderProjects\\TouchSocketRpcServiceDemo\\TouchSocketRpcServiceDemo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\SZY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "TouchSocket": {
+            "target": "Package",
+            "version": "[1.2.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

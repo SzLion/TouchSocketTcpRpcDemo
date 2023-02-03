@@ -1,0 +1,17 @@
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\bin\Debug\net6.0\TouchSocketRpcServiceDemo.exe
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\bin\Debug\net6.0\TouchSocketRpcServiceDemo.deps.json
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\bin\Debug\net6.0\TouchSocketRpcServiceDemo.runtimeconfig.json
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\bin\Debug\net6.0\TouchSocketRpcServiceDemo.dll
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\bin\Debug\net6.0\TouchSocketRpcServiceDemo.pdb
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\bin\Debug\net6.0\TouchSocket.dll
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\obj\Debug\net6.0\TouchSocketRpcServiceDemo.csproj.AssemblyReference.cache
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\obj\Debug\net6.0\TouchSocketRpcServiceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\obj\Debug\net6.0\TouchSocketRpcServiceDemo.AssemblyInfoInputs.cache
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\obj\Debug\net6.0\TouchSocketRpcServiceDemo.AssemblyInfo.cs
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\obj\Debug\net6.0\TouchSocketRpcServiceDemo.csproj.CoreCompileInputs.cache
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\obj\Debug\net6.0\TouchSocketRpcServiceDemo.csproj.CopyComplete
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\obj\Debug\net6.0\TouchSocketRpcServiceDemo.dll
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\obj\Debug\net6.0\refint\TouchSocketRpcServiceDemo.dll
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\obj\Debug\net6.0\TouchSocketRpcServiceDemo.pdb
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\obj\Debug\net6.0\TouchSocketRpcServiceDemo.genruntimeconfig.cache
+C:\Users\SZY\RiderProjects\TouchSocketRpcServiceDemo\TouchSocketRpcServiceDemo\obj\Debug\net6.0\ref\TouchSocketRpcServiceDemo.dll

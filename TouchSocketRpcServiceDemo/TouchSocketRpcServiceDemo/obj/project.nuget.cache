@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGOo4voaZkX2/3mqiMuKBgnLcyaQMaO3ELvbxvfFw64TNsilVsy1KCh7GYiSCrBiO0G4hEnFA2M4B1WL/+CsAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SZY\\RiderProjects\\TouchSocketRpcServiceDemo\\TouchSocketRpcServiceDemo\\TouchSocketRpcServiceDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SZY\\.nuget\\packages\\touchsocket\\1.2.1\\touchsocket.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

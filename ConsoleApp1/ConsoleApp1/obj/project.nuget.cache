@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/qnjIkeu06VBNN94zx3JL0bM9HHff+LXsyCsHYgukx/gu5zTHv1WscQa8BJwuNVPbqxB/sjvlcH1s2axFIKPbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SZY\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SZY\\.nuget\\packages\\touchsocket\\1.2.1\\touchsocket.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
